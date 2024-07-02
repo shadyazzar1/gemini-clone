@@ -59,6 +59,6 @@ License
 Distributed under the MIT License. See LICENSE for more information.
 
 Contact
-Your Name - your.email@example.com
+shady - shadyazzar@gmail.com
 
-Project Link: https://github.com/yourusername/google-gemini-website
+Project Link: [https://github.com/yourusername/google-gemini-website](https://shadyazzar1.github.io/gemini-clone/)
