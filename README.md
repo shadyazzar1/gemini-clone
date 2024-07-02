@@ -1,3 +1,5 @@
+this is a clone for gemini google ai created with react and vite
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
